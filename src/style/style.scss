@@ -1,0 +1,31 @@
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+.nevzat{
+    font-size: 36px;
+}
+section{
+  min-height: 768px;
+  margin: 0;
+}
+.slider_area{
+    background-image:url("https://themewagon.github.io/jony/img/banner/banner.png");
+    background-size: cover;
+    opacity: 0.9;
+}
+.download-area{
+    background-color: #311E25;
+}
+.services_area{
+    background-color: #402525;
+    color:#fff;
+}
+.single_services{
+    border:1px solid yellow;
+}
+.gallery_area{
+    background-color: #311E25;
+}
+.footer_area{
+    background-image:url("https://themewagon.github.io/jony/img/banner/banner.png");
+}
