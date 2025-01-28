@@ -1,5 +1,19 @@
-# Getting Started with Create React App
+## Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+First, run the development server:
 
-## Basic portfolio website
+```bash
+git clone https://github.com/nvzt13/Portfolio.git
+cd Portfolio
+npm install
+npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+### What can you do?
+
+- Kendinize göre özelleştirebileceğiniz wev developer portfolyo uygulaması
+- 
+<img src="/public/portfolio.png" />
+
