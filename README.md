@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### What can you do?
 
-- Kendinize göre özelleştirebileceğiniz wev developer portfolyo uygulaması
+- Kendinize göre özelleştirebileceğiniz web developer portfolyo uygulaması
 
 <img src="/public/portfolio.png" />
 
